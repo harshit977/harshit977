@@ -1,5 +1,4 @@
 <h1 align="center">Hello! 👋, I'm Harshit Sharma</h1>
-<h3 align="center">"Full Stack Developer(MERN Stack)" and "Competitive Programmer"</h3>
 
 
 <h3 align="left">Connect with me:</h3>
