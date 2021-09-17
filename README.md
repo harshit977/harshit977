@@ -1,5 +1,6 @@
-<h1 align="center">Hello! 👋, I'm Harshit Sharma</h1>
+<h2 color="blue">Hey 👋, I'm Harshit Sharma</h2>
 
+I am an undergraduate student currently pursuing _Bachelors in Technology_ (B.Tech.) in Computer Science & Engineering from _National Institute of Technology, kurukshetra_.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
