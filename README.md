@@ -1,14 +1,10 @@
 <h2 color="blue">Hey 👋, I'm Harshit</h2>
 
-I am an undergraduate student currently pursuing _Bachelors in Technology_ (B.Tech.) in Computer Science & Engineering from _National Institute of Technology, kurukshetra_.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshit-sharma-b620b3144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-sharma-b620b3144" height="30" width="40" /></a>
 <a href="https://fb.com/harshit977" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshit977" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit_977" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshit_977" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit977" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_977" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshit977" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit977" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
